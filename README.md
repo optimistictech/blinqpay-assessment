@@ -81,4 +81,4 @@ The package currently supports the following processors:
 -FlutterwaveProcessor: A processor with a 3% fee and support for multiple currencies.
 
 ## License
-This package is open-source software licensed under the [MIT license].
+This package is open-source software licensed under the [MIT license](mypage.com).
